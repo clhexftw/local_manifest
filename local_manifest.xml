@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest> 
+<remote name="gs" fetch="https://github.com/clhexshrp" />
+<project path="device/xiaomi/vayu" name="android_device_xiaomi_vayu" revision="android-11" remote="gs"/>	
+</manifest>

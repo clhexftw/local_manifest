@@ -15,7 +15,7 @@
 
 <project path="packages/apps/Settings" name="android_packages_apps_Settings" revision="arrow-12.1" remote="arrwfor" />	
 <project path="frameworks/base" name="android_frameworks_base" revision="arrow-12.1" remote="arrwfor" />	
-<project path="vendor_arrow" name="android_vendor_arrow" revision="arrow-12.1" remote="arrwfor" />	
+<project path="vendor/arrow" name="android_vendor_arrow" revision="arrow-12.1" remote="arrwfor" />	
 <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" revision="arrow-12.1" remote="arrwfor" />	
 <project path="packages/apps/GameSpace" name="android_packages_apps_GameSpace" revision="arrow-12.1" remote="arrwfor" />	
 <project path="packages/apps/ArrowPrebuilts" name="android_packages_apps_ArrowPrebuilts" revision="arrow-12.1" remote="arrwfor" />	

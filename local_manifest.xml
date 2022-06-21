@@ -12,6 +12,8 @@
 <remove-project name="android_packages_apps_Launcher3" />
 <remove-project name="android_packages_apps_GameSpace" />
 <remove-project name="android_packages_apps_ArrowPrebuilts" />
+<remove-project name="android_frameworks_av" />
+
 
 <project path="packages/apps/Settings" name="android_packages_apps_Settings" revision="arrow-12.1" remote="arrwfor" />	
 <project path="frameworks/base" name="android_frameworks_base" revision="arrow-12.1" remote="arrwfor" />	
@@ -19,6 +21,8 @@
 <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" revision="arrow-12.1" remote="arrwfor" />	
 <project path="packages/apps/GameSpace" name="android_packages_apps_GameSpace" revision="arrow-12.1" remote="arrwfor" />	
 <project path="packages/apps/ArrowPrebuilts" name="android_packages_apps_ArrowPrebuilts" revision="arrow-12.1" remote="arrwfor" />	
+<project path="frameworks/av" name="android_frameworks_av" revision="arrow-12.1" remote="arrwfor" />	
+
 <project path="external/colorkt" name="external_colorkt" revision="arrow-12.1" remote="arrwfor" />	
 <project path="external/themelib" name="external_themelib" revision="arrow-12.1" remote="arrwfor" />	
 

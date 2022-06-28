@@ -14,7 +14,7 @@
 <remove-project name="android_packages_apps_ArrowPrebuilts" />
 <remove-project name="android_frameworks_av" />
 <remove-project name="android_vendor_support" />
-
+<remove-project name="android_packages_overlays_arrow" />
 
 <project path="packages/apps/Settings" name="android_packages_apps_Settings" revision="arrow-12.1" remote="arrwfor" />	
 <project path="frameworks/base" name="android_frameworks_base" revision="arrow-12.1" remote="arrwfor" />	
@@ -24,6 +24,7 @@
 <project path="packages/apps/ArrowPrebuilts" name="android_packages_apps_ArrowPrebuilts" revision="arrow-12.1" remote="arrwfor" />	
 <project path="frameworks/av" name="android_frameworks_av" revision="arrow-12.1" remote="arrwfor" />	
 <project path="vendor/support" name="android_vendor_support" revision="arrow-12.1" remote="arrwfor" />	
+<project path="packages/overlays/arrow" name="android_packages_overlays_arrow" revision="arrow-12.1" remote="arrwfor" />	
 
 <project path="external/colorkt" name="external_colorkt" revision="arrow-12.1" remote="arrwfor" />	
 <project path="external/themelib" name="external_themelib" revision="arrow-12.1" remote="arrwfor" />	

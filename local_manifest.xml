@@ -7,8 +7,8 @@
 <remote name="clhexlab" fetch="https://github.com/crdroidandroid" />
  
 <project path="device/xiaomi/vayu" name="android_device_xiaomi_vayu" revision="arrow-12.1" remote="hexcl" />	
-<project path="kernel/xiaomi/vayu" name="android_kernel_xiaomi_vayu" revision="r2" remote="labbhayu" />	
-<project path="vendor/xiaomi/vayu" name="android_vendor_xiaomi_vayu" revision="arrow-12.1" remote="labbhayu" />	
+<project path="kernel/xiaomi/vayu" name="android_kernel_xiaomi_vayu" revision="r2" remote="hexcl" />	
+<project path="vendor/xiaomi/vayu" name="android_vendor_xiaomi_vayu" revision="arrow-12.1" remote="hexcl" />	
 <project path="hardware/xiaomi" name="android_hardware_xiaomi" revision="12.0" remote="clhexlab" />	
   
 </manifest>

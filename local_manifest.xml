@@ -4,7 +4,7 @@
 <remote name="arrwfor" fetch="https://github.com/forked-arrowos" />
 <remote name="labbhayu" fetch="https://github.com/clhexvayulab" />
 <remote name="hexcl" fetch="https://github.com/clhexftw" />
-<remote name="clhexlab" fetch="https://github.com/clhexfloslab" />
+<remote name="clhexlab" fetch="https://github.com/crdroidandroid" />
  
 <project path="device/xiaomi/vayu" name="android_device_xiaomi_vayu" revision="arrow-12.1" remote="hexcl" />	
 <project path="kernel/xiaomi/vayu" name="android_kernel_xiaomi_vayu" revision="r2" remote="labbhayu" />	
